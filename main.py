@@ -62,7 +62,7 @@ def onliner(token, status):
                         "name": "🎹",
                         "id": "None",
                         "animated": False,
-                    #},
+                    },
                 }
             ],
             "status": status,
