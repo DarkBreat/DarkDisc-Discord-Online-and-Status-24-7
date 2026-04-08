@@ -60,7 +60,7 @@ def onliner(token, status):
                     #Uncomment the below lines if you want an emoji in the status
                     "emoji": {
                         "name": "🎹",
-                        "id": "None",
+                        "id": None,
                         "animated": False,
                     },
                 }
